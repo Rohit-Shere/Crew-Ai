@@ -34,8 +34,8 @@ news_researcher=Agent(
 ## creating a write agent with custom tools responsible in writing news blog
 
 news_writer = Agent(
-  role='Writer',
-  goal='Narrate compelling tech stories about {topic}',
+  role='Senior Editor',
+  goal='Narrate compile tech stories about {topic}',
   verbose=True,
   memory=True,
   backstory=(
