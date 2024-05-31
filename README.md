@@ -81,4 +81,4 @@ Crew AI is released under the MIT License. See the [LICENSE](LICENSE) file for d
 
 **Contact**
 
-For any questions or comments, please contact Rohit Shere(mailto:rhtshere@gmail.com).    
+For any questions or comments, please contact Rohit Shere(mailto:  rhtshere@gmail.com).    
